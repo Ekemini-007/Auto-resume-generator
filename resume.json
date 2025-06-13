@@ -1,0 +1,20 @@
+{
+  "name": "John Doe",
+  "role": "Front-End Developer",
+  "skills": ["React", "JavaScript", "CSS"],
+  "experience": [
+    {
+      "company": "XYZ Corp",
+      "title": "Junior Dev",
+      "duration": "2022–2023",
+      "tasks": ["Built UI components", "Fixed bugs", "Collaborated with backend"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ABC University",
+      "degree": "BSc Computer Science",
+      "year": "2021"
+    }
+  ]
+}
